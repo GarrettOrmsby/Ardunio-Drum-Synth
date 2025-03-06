@@ -9,7 +9,7 @@ Parts list:
 - 15 Jumper Wires
   - 8 to complete circuit and connect all pieces to ground
   - 7 to connect components to the UNO
-- Audio Output Component [I used a 3.5mm Stereo Jack to plug into my PC and capture audio but a simple piezo speaker can work as well.](https://www.amazon.com/dp/B07MFKKWG5?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- Audio Output Component [I used a 3.5mm Stereo Jack to plug into my PC and capture audio](https://www.amazon.com/dp/B07MFKKWG5?ref=ppx_yo2ov_dt_b_fed_asin_title) but a simple piezo speaker can work as well.
 - An 830 Tie-Points Breadboard
 
 
