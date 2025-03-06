@@ -4,12 +4,12 @@ Drum synth made with Arduino Uno and programmed in the Ardunio IDE using the Ton
 ![Primary Wiring Photo](https://github.com/GarrettOrmsby/Ardunio-Drum-Synth/blob/c6de24ea780543889d6bf56a11e9efb0e81b1f03/Main_Wiring.jpg)
 
 Parts list:
-1 Ardunio Uno or brand alternative
-6 Tactile Push Button Switches [5 for sounds pads and one to swap between presets] ![Link](https://www.amazon.com/dp/B008DGA9UY?ref=ppx_yo2ov_dt_b_fed_asin_title)
-15 Jumper Wires
- - 8 to complete circuit and connect all pieces to ground
- - 7 to connect components to the UNO
-Audio Output Compoenent [I used a 3.5mm Stereo Jack to plug into my PC and capture audio but a simple piezo speaker can work as well.](https://www.amazon.com/dp/B07MFKKWG5?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- 1 Ardunio Uno or brand alternative
+- 6 Tactile Push Button Switches [5 for sounds pads and one to swap between presets] ![Link](https://www.amazon.com/dp/B008DGA9UY?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- 15 Jumper Wires
+  - 8 to complete circuit and connect all pieces to ground
+  - 7 to connect components to the UNO
+- Audio Output Compoenent [I used a 3.5mm Stereo Jack to plug into my PC and capture audio but a simple piezo speaker can work as well.](https://www.amazon.com/dp/B07MFKKWG5?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 
 The tone library only allows for the output of a single square wave. In order to get a very specific sound/frequency like done in preset 0 for the Ducktails notes asjust starting frequency to the note you want
